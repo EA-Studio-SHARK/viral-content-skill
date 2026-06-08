@@ -1,0 +1,13 @@
+{
+  "name": "viral-content-skill",
+  "version": "1.0.0",
+  "description": "让 AI 写出真正能爆的中文社媒内容。小红书 / 抖音 / 视频号 / 公众号爆款方法论。",
+  "author": "EA-Studio-SHARK",
+  "skills": [
+    {
+      "name": "viral-content",
+      "path": "./viral-content",
+      "description": "中文社媒爆款内容方法论。让 AI 懂平台算法、钩子、痛点开头、互动结尾。"
+    }
+  ]
+}
