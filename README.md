@@ -1,7 +1,26 @@
-# viral-content-skill 爆款内容 skill
-> 让你的 AI 写出真正能爆的中文社媒内容。
+<div align="center">
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+<img src="./assets/hero.svg" alt="爆款内容 skill" width="100%"/>
+
+<h1>viral-content-skill · 爆款内容 skill</h1>
+
+<p><b>让你的 AI 写出真正能爆的中文社媒内容</b><br/>小红书 · 抖音 · 视频号 · 公众号</p>
+
+<p>
+<a href="https://github.com/EA-Studio-SHARK/viral-content-skill/stargazers"><img src="https://img.shields.io/github/stars/EA-Studio-SHARK/viral-content-skill?style=for-the-badge&logo=github&color=FF4D6D&labelColor=1A0810" alt="Stars"/></a>
+<img src="https://img.shields.io/badge/平台-4-FF8A3D?style=for-the-badge&labelColor=1A0810" alt="Platforms"/>
+<img src="https://img.shields.io/badge/license-MIT-FF6B9D?style=for-the-badge&labelColor=1A0810" alt="License"/>
+</p>
+
+<p>
+<a href="#安装"><b>安装</b></a> ·
+<a href="#before--after"><b>效果对比</b></a> ·
+<a href="#核心规则预览"><b>核心规则</b></a>
+</p>
+
+</div>
+
+---
 
 `viral-content-skill` 是给 Claude Code、Cursor、Codex 等 AI Agent 用的中文社媒内容技能包，覆盖小红书、抖音、视频号、公众号，让 AI 不再只会写平庸文案，而是按平台算法、钩子、痛点开头、互动结尾来创作。
 
@@ -58,7 +77,8 @@ After：
 
 ## 更多起号实战
 
-B站教程 + 创作者交流群：[占位]
+用这个 skill 批量起号、做矩阵的实战玩法，B站教程 + 创作者交流群即将上线。
+关注作者获取更新：[EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
 
 ## License
 
