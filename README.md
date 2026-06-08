@@ -77,8 +77,11 @@ After：
 
 ## 更多起号实战
 
-用这个 skill 批量起号、做矩阵的实战玩法，B站教程 + 创作者交流群即将上线。
-关注作者获取更新：[EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
+用这个 skill 批量起号、做矩阵的实战玩法在持续更新：
+
+- B站教程：[EA同学](https://b23.tv/T0t6eVp)
+- 创作者交流 QQ 群：**805218411**
+- 更多 AI 工具与网站：[exploreall.shichangding.cn](https://exploreall.shichangding.cn/)
 
 ## License
 

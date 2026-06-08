@@ -58,7 +58,9 @@ Save this now, or you will not find it later.
 
 ## More Creator Playbooks
 
-Bilibili tutorials + creator community coming soon. Follow the author: [EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
+- Bilibili: [EA同学](https://b23.tv/T0t6eVp)
+- More AI tools & site: [exploreall.shichangding.cn](https://exploreall.shichangding.cn/)
+- GitHub: [EA-Studio-SHARK](https://github.com/EA-Studio-SHARK)
 
 ## License
 
